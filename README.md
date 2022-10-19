@@ -10,7 +10,7 @@ Screen 2: Crime Alert
 
 Screen 3: Ikea Confirm Time
 
-Screen 4: American Football - Score
+Screen 4: Football - Score
 
 Screen 5: Login
 
